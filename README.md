@@ -9,12 +9,12 @@
 
 EoP脅威モデリングカードは、Microsoft社により提唱された "STRIDE" と呼ばれる手法を用いた脅威モデリングを実践できるゲームです。STRIDEは、以下の脅威分類の頭文字をとったものです。
 
-- Spoofing: なりすまし。他のものや他の誰かのふりをする
-- Tampering: 改ざん。データやコードを変更する
-- Repudiation: 否認。アクションを実行していないと主張する
-- Information of Disclosure: 情報漏えい。権限のない人に情報を公開する
-- Denial of Service: サービス拒否。サービスを利用可能にする、または機能を低下させる
-- Elevation of Privilege: 権限昇格。正当な許可なく権限を取得する
+- **S**poofing: なりすまし。他のものや他の誰かのふりをする
+- **T**ampering: 改ざん。データやコードを変更する
+- **R**epudiation: 否認。アクションを実行していないと主張する
+- **I**nformation of Disclosure: 情報漏えい。権限のない人に情報を公開する
+- **D**enial of Service: サービス拒否。サービスを利用可能にする、または機能を低下させる
+- **E**levation of Privilege: 権限昇格。正当な許可なく権限を取得する
 
 ### 日本語化について
 
@@ -39,5 +39,5 @@ EoP脅威モデリングカードゲームを日本語化するにあたり、�
 
 EoP脅威モデリングカードゲームのオリジナル版は [CC-BY-3.0 ライセンス](https://creativecommons.org/licenses/by/3.0/us/) の元で[公開](https://github.com/adamshostack/eop)されています。
 
-こちらで公開されている日本語版は、Kii株式会社の有志により無料配布を前提に作成されたものです。日本語化にあたり、[いらすとや](https://www.irasutoya.com/)の素材を使用しています。使用されている素材の利用規約については [こちら](https://www.irasutoya.com/p/terms.html) をご確認ください。
+こちらで公開されている日本語版は、Kii株式会社の有志により無料配布を前提に作成されたものです。日本語化にあたり、[いらすとや](https://www.irasutoya.com/)の素材を使用しています。使用されている素材の利用規約については[こちら](https://www.irasutoya.com/p/terms.html)をご確認ください。
 
