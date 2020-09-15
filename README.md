@@ -1,5 +1,7 @@
 # Elevation of Privilege 脅威モデリングカードゲーム
 
+![2020-08-12_22h36_48](https://user-images.githubusercontent.com/1527270/93208493-9dee8b80-f797-11ea-8dbe-366e96322870.png)
+
 ## 概要
 
 開発対象のシステムに存在する潜在的なセキュリティ脅威を、開発ライフサイクルの早い段階で洗い出す（i.e., 脅威モデリングを実施する）ためのツール [Elevation of Privilege (EoP) Threat Modeling Card Game](https://github.com/adamshostack/eop) を日本語化したものです。
